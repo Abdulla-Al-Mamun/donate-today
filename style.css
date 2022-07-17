@@ -63,3 +63,32 @@ button {
     border-style: solid;
     border-color: brown;
 }
+
+#plan {
+    color: black;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    border: 10px;
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+}
+
+.container {
+    text-align: center;
+    color: rgb(3, 13, 22);
+}
+
+#food {
+    background-color: rgb(159, 214, 196);
+}
+
+#shelter {
+    background-color: rgb(148, 171, 213);
+}

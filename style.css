@@ -124,3 +124,22 @@ button {
 .update {
     text-align: center;
 }
+
+.subscribe {
+    text-align: center;
+}
+
+#subscribe-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 400px;
+    height: 80px;
+    background-color: antiquewhite;
+
+}
+
+footer {
+    background-color: rgb(27, 2, 2);
+    color: rgb(201, 38, 13);
+    text-align: center;
+}

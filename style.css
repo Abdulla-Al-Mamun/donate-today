@@ -1,0 +1,65 @@
+.them {
+    background-image: url(images/donation13.jpg);
+    height: 400px;
+    width: 100%;
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.them p {
+    color: white;
+    text-align: center;
+
+}
+
+button {
+    background-color: aqua;
+    height: 30px;
+    width: 100px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.donate-now {
+    text-align: center;
+}
+
+.text {
+    text-align: justify;
+    color: white;
+    text-align: center;
+
+}
+
+.text-2 {
+    text-align: justify;
+    color: black;
+    text-align: center;
+
+}
+
+.tk {
+    display: flex;
+}
+
+.amount {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 17%;
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#select {
+    background-color: aqua;
+    color: brown;
+    border-style: solid;
+    border-color: brown;
+}

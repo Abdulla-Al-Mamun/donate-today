@@ -74,6 +74,7 @@ button {
     border: 10px;
     width: 30%;
     float: left;
+    float: right;
     margin-right: 20px;
     margin-left: 20px;
     margin-bottom: 20px;
@@ -91,4 +92,35 @@ button {
 
 #shelter {
     background-color: rgb(148, 171, 213);
+}
+
+.Contribute {
+    height: 50px;
+    width: 150px;
+}
+
+.help {
+    display: flex;
+    height: 300px;
+    float: left;
+    text-align: center;
+}
+
+.pic {
+    width: 40%;
+    height: 250px;
+    display: flex;
+}
+
+.help-text {
+    width: 50%;
+    text-align: center;
+}
+
+.help-text p {
+    text-align: left;
+}
+
+.update {
+    text-align: center;
 }
